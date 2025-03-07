@@ -1,7 +1,7 @@
 ---
 title: "Disaster Prepositioning Case Study"
 author: "Your Name"
-repository: https://github.com/yurchisin/case-studies/tree/main/esups/disaster_prepositioning_book
+repository: https://github.com/yurchisin/case-studies/tree/main/esups/
 binder:
   url: "https://mybinder.org"
 execute:
